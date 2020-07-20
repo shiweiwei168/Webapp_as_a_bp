@@ -1,6 +1,6 @@
 download all files first. copy all files into Devi's project app folder. 
 assume you install all requirement for Devi's API.
-install all requirements for the webapp. 
+I include a requirements file. install all requirements for the webapp. 
 run the service again. "flask run"
 you can access our website by use 0.0.0.0:5000/web
 
